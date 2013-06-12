@@ -14,3 +14,6 @@
 /log/*.log
 /tmp
 tmp
+.DS_Store
+.idea
+.project
